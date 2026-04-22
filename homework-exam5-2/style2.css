@@ -101,7 +101,7 @@
 }
 .parag2 {
   text-align: center;
-  color: #d45d55;
+  color: rgba(215, 116, 116, 1);
   font-size: 12px;
   letter-spacing: 3px;
   padding-bottom: 15px;
@@ -141,7 +141,7 @@
   margin: auto;
   padding-top: 80px;
   padding-bottom: 80px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid grey;
 }
 .div7 {
   display: flex;
@@ -151,7 +151,6 @@
 }
 .div8 {
   width: 45%;
-  background: #f3f3f3;
   text-align: center;
 }
 .img3 {
@@ -167,7 +166,7 @@
 }
 .parag4 {
   max-width: 400px;
-  color: #777;
+  color: grey;
   line-height: 30px;
   padding-bottom: 20px;
 }
@@ -188,9 +187,76 @@
 }
 .div12 {
   width: 45%;
-  background: #f3f3f3;
   text-align: center;
 }
 .img4 {
   width: 70%;
+}
+.container4 {
+  width: 85%;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border-top: grey;
+}
+
+.parag5 {
+  text-align: center;
+  color: rgba(215, 116, 116, 1);
+  font-size: 12px;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+.title5 {
+  text-align: center;
+  font-size: 56px;
+  padding-bottom: 50px;
+}
+
+.div13 {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+
+.div15 {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+.div14 {
+  width: 31%;
+  border-bottom: 1px solid grey;
+  padding-bottom: 20px;
+}
+
+.img5 {
+  width: 100%;
+}
+
+.parag6 {
+  color: #666;
+  font-size: 18px;
+  padding-top: 18px;
+  padding-bottom: 8px;
+}
+
+.parag7 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.button2 {
+  display: block;
+  margin: auto;
+  width: 220px;
+  height: 55px;
+  background-color: #b32017;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
 }
