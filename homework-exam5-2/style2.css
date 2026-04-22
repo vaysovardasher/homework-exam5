@@ -99,7 +99,6 @@
   padding-top: 80px;
   padding-bottom: 80px;
 }
-
 .parag2 {
   text-align: center;
   color: #d45d55;
@@ -107,41 +106,91 @@
   letter-spacing: 3px;
   padding-bottom: 15px;
 }
-
 .title2 {
   text-align: center;
   font-size: 56px;
   padding-bottom: 50px;
 }
-
 .title2 span {
   color: #b32017;
 }
-
 .div4 {
   text-align: center;
   padding-bottom: 60px;
 }
-
 .img2 {
   width: 80%;
 }
-
 .div5 {
   display: flex;
   justify-content: space-between;
 }
-
 .div6 {
   width: 45%;
 }
-
 .title3 {
   font-size: 36px;
   padding-bottom: 20px;
 }
-
 .parag3 {
   color: #777;
   line-height: 28px;
+}
+.container3 {
+  width: 85%;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border-top: 1px solid #eee;
+}
+.div7 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 70px;
+}
+.div8 {
+  width: 45%;
+  background: #f3f3f3;
+  text-align: center;
+}
+.img3 {
+  width: 50%;
+}
+.div9 {
+  width: 45%;
+}
+.title4 {
+  font-size: 38px;
+  font-weight: bolder;
+  padding-bottom: 20px;
+}
+.parag4 {
+  max-width: 400px;
+  color: #777;
+  line-height: 30px;
+  padding-bottom: 20px;
+}
+.in-title1 {
+  font-size: 18px;
+  margin-left: 0px;
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+.div10 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div11 {
+  width: 45%;
+}
+.div12 {
+  width: 45%;
+  background: #f3f3f3;
+  text-align: center;
+}
+.img4 {
+  width: 70%;
 }
