@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.container1 {
+  width: 100%;
+  height: 100vh;
+}
+.header {
+  width: 90%;
+  height: 10vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  font-weight: 600;
+}
+.img1 {
+  max-width: 300px;
+  max-height: 45px;
+  margin-right: 500px;
+}
+.div1 {
+  width: 200px;
+  height: 50px;
+  border-left: 1px solid grey;
+  font-size: 16px;
+}
+.parag1 {
+  padding-top: 5px;
+  padding-left: 10px;
+  color: grey;
+}
+.parag2 {
+  padding-left: 10px;
+}
+.in-container1 {
+  width: 90%;
+  margin: auto;
+  display: flex;
+}
+.div2 {
+  width: 50%;
+  font-size: 30px;
+  margin-top: 130px;
+}
+.title1 {
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+.input1 {
+  width: 260px;
+  height: 30px;
+  font-size: 18px;
+  padding-left: 17px;
+  margin-right: 10px;
+  margin-top: 40px;
+  border: 2px solid rgb(73, 70, 70);
+  border-radius: 3px;
+}
+.button1 {
+  width: 581px;
+  height: 30px;
+  margin-top: 15px;
+  background-color: rgba(61, 104, 225, 1);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.parag3 {
+  font-size: 14.5px;
+  padding-left: 118px;
+  padding-top: 8px;
+}
+.div3 {
+  margin-top: 100px;
+}
+.img2 {
+  width: 650px;
+}
