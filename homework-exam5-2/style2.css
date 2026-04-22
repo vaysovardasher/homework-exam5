@@ -16,36 +16,36 @@
   font-weight: 600;
   justify-content: space-between;
 }
-.link1{
-    color: rgba(172, 19, 19, 1);
-    text-decoration: none;
-    font-size: 19px;
-    text-transform: capitalize;
+.link1 {
+  color: rgba(172, 19, 19, 1);
+  text-decoration: none;
+  font-size: 19px;
+  text-transform: capitalize;
 }
-.link2{
-    color: rgba(108, 108, 108, 1);
-    text-decoration: none;
-    margin-left: 20px;
-    font-size: 19px;
-    text-transform: capitalize;
+.link2 {
+  color: rgba(108, 108, 108, 1);
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 19px;
+  text-transform: capitalize;
 }
-.size-6{
-    max-width: 25px;
-    border-left: 1px solid grey;
-    padding-left: 40px;
+.size-6 {
+  max-width: 25px;
+  border-left: 1px solid grey;
+  padding-left: 40px;
 }
-.in-container1{
-    width: 100%;
-    height: 90%;
-    background-image: url("../images/image\ \(38\).png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
+.in-container1 {
+  width: 100%;
+  height: 90%;
+  background-image: url("../images/image\ \(38\).png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
 }
 .div1 {
-    font-size: 16px;
-    gap: 25px;
+  font-size: 16px;
+  gap: 25px;
 }
 .parag1 {
   padding-top: 5px;
@@ -70,8 +70,8 @@
   font-weight: 700;
   padding-bottom: 15px;
 }
-.subtitle1{
-    font-size: 19px;
+.subtitle1 {
+  font-size: 19px;
 }
 .button1 {
   width: 200px;
@@ -85,11 +85,63 @@
   letter-spacing: 1px;
   margin-top: 30px;
 }
-.div3{
-    width: 50%;
-    padding-top: 150px;
+.div3 {
+  width: 50%;
+  padding-top: 150px;
 }
-.img1{
-    width: 850px;
-    margin-left: -130px;
+.img1 {
+  width: 850px;
+  margin-left: -130px;
+}
+.container2 {
+  width: 85%;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.parag2 {
+  text-align: center;
+  color: #d45d55;
+  font-size: 12px;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+.title2 {
+  text-align: center;
+  font-size: 56px;
+  padding-bottom: 50px;
+}
+
+.title2 span {
+  color: #b32017;
+}
+
+.div4 {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.img2 {
+  width: 80%;
+}
+
+.div5 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div6 {
+  width: 45%;
+}
+
+.title3 {
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+
+.parag3 {
+  color: #777;
+  line-height: 28px;
 }
