@@ -300,3 +300,8 @@ color:white;
 border:none;
 cursor:pointer;
 }
+.link-page1{
+  font-size: 19px;
+  text-decoration: none;
+  color: rgb(255, 94, 0);
+}
