@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.container1 {
+  width: 100%;
+  height: 100vh;
+}
+.header {
+  width: 90%;
+  height: 10vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  font-weight: 600;
+  justify-content: space-between;
+}
+.link1{
+    color: rgba(172, 19, 19, 1);
+    text-decoration: none;
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.link2{
+    color: rgba(108, 108, 108, 1);
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.size-6{
+    max-width: 25px;
+    border-left: 1px solid grey;
+    padding-left: 40px;
+}
+.in-container1{
+    width: 100%;
+    height: 90%;
+    background-image: url("../images/image\ \(38\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+.div1 {
+    font-size: 16px;
+    gap: 25px;
+}
+.parag1 {
+  padding-top: 5px;
+  padding-left: 10px;
+  color: red;
+}
+.parag2 {
+  padding-left: 10px;
+}
+.in-container1 {
+  width: 90%;
+  margin: auto;
+  display: flex;
+}
+.div2 {
+  width: 50%;
+  font-size: 30px;
+  margin-top: 170px;
+  padding-left: 50px;
+}
+.title1 {
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+.subtitle1{
+    font-size: 19px;
+}
+.button1 {
+  width: 200px;
+  height: 40px;
+  margin-top: 15px;
+  background-color: rgba(172, 19, 19, 1);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-top: 30px;
+}
+.div3{
+    width: 50%;
+    padding-top: 150px;
+}
+.img1{
+    width: 850px;
+    margin-left: -130px;
+}
